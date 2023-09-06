@@ -158,5 +158,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark"&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=dark" alt="devzeus721" /></div>
 </div>
-<div margin="10px 10px 10px 10px";align="justify">   
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=dark" alt="devzeus721" /></div>
