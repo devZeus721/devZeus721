@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
   </a>
   <a href="https://medium.com/@devzeus.mathew721" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
