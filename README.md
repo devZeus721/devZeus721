@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm dev Zeus Mathew</h1>
-<h3 align="left">A passionate all round developer from India</h3>
+<h1 align="right">Hi 👋, I'm dev Zeus Mathew</h1>
+<h3 align="right"><b>A passionate all round developer from India</b></h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=37ffff&style=flat-square" alt="devzeus721" /> </p>
 
@@ -31,7 +31,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
