@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="center">
   <a href="https://codepen.io/devZeus721" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
