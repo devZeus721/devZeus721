@@ -177,6 +177,6 @@
 </div>
 <br>
 <br>
-<h3 align="left"><b>Status Trophies</b></h3>
+<h3 align="left"><b>Status Trophies:</b></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"theme=onedark)><img src="https://github-profile-trophy.vercel.app/?username=devzeus721" alt="devzeus721" />
 </a> </p>
