@@ -33,6 +33,9 @@
   <a href="https://dev.to/devzeus721" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=cyan&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
+   <a href="https://web.telegram.org/k/#@ZeusLegendry007" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/iammrzeusmathewk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -45,9 +48,7 @@
   <a href="_mr.zeusmathewk721" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://web.telegram.org/k/#@ZeusLegendry007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+ 
 </div>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
