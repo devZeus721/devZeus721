@@ -159,4 +159,4 @@
 
 <p><img border-top="-15px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=dark" alt="devzeus721" /></p>
 <br></br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&show_icons=true&text_color=00ffff&locale=en&layout=compact" alt="devzeus721" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&theme=dark&show_icons=true&text_color=00ffff&locale=en&layout=compact" alt="devzeus721" /></p>
