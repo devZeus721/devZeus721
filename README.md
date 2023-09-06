@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"theme=onedark)><img src="https://github-profile-trophy.vercel.app/?username=devzeus721" alt="devzeus721" />
 </a> </p>
 
-<p align="left"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
+<p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
 - 🔭 I’m currently working on **FRONT END Web Designing**
 
