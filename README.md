@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋, I'm dev Zeus Mathew</h1>
+<h1 align="right">Hi 👋, I'm devZeus Mathew</h1>
 <h3 align="right"><b>A passionate all round developer from India</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=37ffff&style=flat-square" alt="devzeus721" /> </p>
