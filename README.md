@@ -1,7 +1,7 @@
 <h1 align="right">Hi 👋, I'm devZeus Mathew</h1>
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=37ffff&style=flat-square" alt="devzeus721" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=00b5b5&style=plastic" alt="devzeus721" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"theme=onedark)><img src="https://github-profile-trophy.vercel.app/?username=devzeus721" alt="devzeus721" />
 </a> </p>
