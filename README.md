@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=00b5b5&style=plastic" alt="devzeus721" /> </p>
 <div align="center";margin-bottom="10px">
       <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&title_color=faff39&text_color=00ffff&bg_color=000059&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000059&text_color=00ffff"&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000059&text_color=00ffff"&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=onedark&bg_color=000059" alt="devzeus721" /></div>
 
 
