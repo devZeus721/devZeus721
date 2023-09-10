@@ -22,9 +22,8 @@
 - 📫 How to reach me **zeus.mathew721@gmail.com & devzeus.mathew721@gmail.com**
 
 </div>
-<h2 align="center"></h2>
 
-<h2 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
