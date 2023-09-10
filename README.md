@@ -9,6 +9,8 @@
 
 <h2 align="right"><b>About ME !....</b></h2>
 
+<div text-color="cyan">
+
 - 🔭 I’m currently working on **FREELANCED DEVELOPER**
 
 - 🌱 I’m currently learning **Advanced Frontend and Database query setups**
@@ -19,7 +21,8 @@
 
 - 📫 How to reach me **zeus.mathew721@gmail.com & devzeus.mathew721@gmail.com**
 
-<h2 align="center"><b>#############################################################################################################</b></h2>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
