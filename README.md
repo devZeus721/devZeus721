@@ -7,18 +7,19 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000033&text_color=00ffff"&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&color=000033&theme=onedark" alt="devzeus721" /></div>
 
-
+<h2 align="right"><b>About ME !....</b></h2>
 
 - 🔭 I’m currently working on **FREELANCED DEVELOPER**
 
-- 🌱 I’m currently learning **advanced Frontend and Database query setups**
+- 🌱 I’m currently learning **Advanced Frontend and Database query setups**
 
-- 👯 I’m looking to collaborate on **well developer colleagues**
+- 👯 I’m looking to collaborate on **Well developer colleagues**
 
 - 💬 Ask me about **Any Technical and dev realted queries**
 
 - 📫 How to reach me **zeus.mathew721@gmail.com & devzeus.mathew721@gmail.com**
 
+<h2 align="center"><b>#############################################################################################################</b></h2>
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
