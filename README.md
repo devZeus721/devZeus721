@@ -8,7 +8,7 @@
 
 <h1 align="left"><b>About ME ! </b></h1>
 
-<div text-color="cyan">
+<div align="center">
 
 - 🔭 I’m currently working on **FREELANCED DEVELOPER**
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
