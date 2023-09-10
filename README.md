@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000033&text_color=00ffff"&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&color=000033&theme=onedark" alt="devzeus721" /></div>
 
-<h1 align="right"><b>About ME ! </b></h1>
+<h1 align="left"><b>About ME ! </b></h1>
 
 <div text-color="cyan">
 
@@ -24,7 +24,7 @@
 </div>
 <h2 align="center"></h2>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
