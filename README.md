@@ -8,7 +8,7 @@
 
 <h1 align="left"><b>About ME ! </b></h1>
 
-<div align="center">
+<div align="center"&text-color="00ffff">
 
 - 🔭 I’m currently working on **FREELANCED DEVELOPER**
 
