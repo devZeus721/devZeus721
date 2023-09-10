@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **FRONT END Web Designing**
+- 🔭 I’m currently working on **FREELANCED DEVELOPER**
 
 - 🌱 I’m currently learning **advanced Frontend and Database query setups**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Any Technical and dev realted queries**
 
-- 📫 How to reach me **zeus.mathew721@gmail.com**
+- 📫 How to reach me **zeus.mathew721@gmail.com & devzeus.mathew721@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
