@@ -1,7 +1,6 @@
 <h1 align="right" ; text-color="cyan" >Hi 👋, I'm devZeus Mathew</h1>
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=00b5b5&style=plastic" alt="devzeus721" /> </p>
 <div align="center";margin-bottom="10px">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devzeus721&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&title_color=faff39&text_color=00ffff&bg_color=000033&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000033&text_color=00ffff"&hide_border=false" height="150" alt="languages graph"  />
@@ -183,3 +182,5 @@
 <h3 align="left"><b>Status Trophies:</b></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"theme=onedark)><img src="https://github-profile-trophy.vercel.app/?username=devzeus721" alt="devzeus721" />
 </a> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=00b5b5&style=plastic" alt="devzeus721" /> </p>
