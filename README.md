@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Any Technical and dev realted queries**
 
-- 📫 How to reach me **devzeus.mathew721@gmail.com**
+- 📫 How to reach me **zeus.mathew721@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
