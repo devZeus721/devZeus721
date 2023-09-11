@@ -11,7 +11,7 @@
 
 <div align="center"&text-color="00ffff">
 
-- 🔭 I’m currently working on **FREELANCED DEVELOPER**
+- 🔭 I’m currently working on **FREELANCE DEVELOPER**
 
 - 🌱 I’m currently learning **Advanced Frontend and Database query setups**
 
