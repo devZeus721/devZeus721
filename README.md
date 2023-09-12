@@ -4,16 +4,16 @@
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
+<div align="center";margin-bottom="10px">
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia"/>
-  </p>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devzeus721&repo=github-readme-stats &show_owner=true"/> 
-  </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" alt="devzeus721" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" alt="devzeus721"/></p>
-
-<img align="center" src="https://github.com/devzeus721/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" />
+</div>
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="250" float="left" width="50%" alt="devzeus721" /></p>
+</div>
+<div align="right" ;>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" float="right" margin-top="-70" height="250" alt="devzeus721"/></p>
+</div>
 
 <h1 align="left"><b>About ME ! </b></h1>
 
