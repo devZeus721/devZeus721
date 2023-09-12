@@ -5,9 +5,11 @@
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721"/>
-    <img align="center" src="https://github.com/devzeus721/github-readme-stats"/>
-    </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia"/>
+      </p>
+    
+      <p><img align="center" src="https://github.com/devzeus721/github-readme-stats"/>
+  </p>
 
 
 <h1 align="left"><b>About ME ! </b></h1>
