@@ -8,8 +8,8 @@
   
   <div align="center";margin-bottom="10px">
  <img src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&bg_color=000033&text_color=00ffff&hide_border=false" height="150" alt="languages graph"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721" &bg_color=000033 /></div>
+</div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721"/></p>
 
 <h1 align="left"><b>About ME ! </b></h1>
 
