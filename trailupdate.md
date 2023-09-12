@@ -26,6 +26,9 @@
 
   </p>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devzeus721)](https://github.com/devzeus721/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721)](https://github.com/devzeus721/github-readme-stats"/></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721"/>
+<br>
+<img align="center" src="https://github.com/devzeus721/github-readme-stats"/>
+</p>
