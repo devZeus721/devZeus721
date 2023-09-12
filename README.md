@@ -6,11 +6,11 @@
 
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia"/>
-      </p>
+  </p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devzeus721&repo=github-readme-stats &show_owner=true"/> 
   </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact"/>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact"/></p>
+
 <img align="center" src="https://github.com/devzeus721/github-readme-stats"/>
 
 <h1 align="left"><b>About ME ! </b></h1>
