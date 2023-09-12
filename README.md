@@ -9,7 +9,7 @@
   </p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devzeus721&repo=github-readme-stats &show_owner=true"/> 
   </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&show_icons=true&theme=algolia" alt="devzeus721" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" alt="devzeus721" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" alt="devzeus721"/></p>
 
