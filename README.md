@@ -4,12 +4,12 @@
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
 <div align="center"; border="none">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" width="480"/></p></div>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia&title_color=faff39&text_color=00ffff" width="480"/></p></div>
 
 <table align="center" &border-style="none">
   <tr border="0">
-<td border="none"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="320" width="500" alt="devzeus721" /></p></td>
-<td border="none"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&theme=algolia" height="270" width="420" alt="devzeus721"/></p></td>
+<td border="none"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia&title_color=faff39&text_color=00ffff" height="320" width="500" alt="devzeus721" /></p></td>
+<td border="none"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&theme=algolia&title_color=faff39&text_color=00ffff" height="270" width="420" alt="devzeus721"/></p></td>
   </tr>
 </table>
 <br>
