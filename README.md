@@ -1,20 +1,22 @@
 **************************************************************************# Markdown heading is under MAINTENANCE******************************************
+| *Yuku haru ya*
+| *tori naki uo no*
 
 <h1 align="right" ; text-color="cyan" >Hi 👋, I'm devZeus Mathew</h1>
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" />
-</div>
+<table align="center"&border-style="none">
+  <tr border="0">
+    <td border="0">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="300" width="500" alt="devzeus721" /></p></td>
+<td border="0"><p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" height="300"/></td>
+<td border="0"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" height="240" width="500" alt="devzeus721"/></p></td>
+</tr>
+</table>
+
 <div>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" align="left" height="150" alt="devzeus721" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" align="right" height="200" alt="devzeus721"/></p>
-</div>
-
 <h1 align="left"><b>About ME ! </b></h1>
-
 <div align="center"&text-color="00ffff">
 
 - 🔭 I’m currently working on **FREELANCE DEVELOPER**
@@ -26,7 +28,7 @@
 - 💬 Ask me about **Any Technical and dev realted queries**
 
 - 📫 How to reach me **<zeus.mathew721@gmail.com> & <devzeus.mathew721@gmail.com>**
-
+</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
