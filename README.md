@@ -7,9 +7,9 @@
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" />
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="350" float="left" alt="devzeus721" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" width="250" alt="devzeus721" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" float="right" height="300" alt="devzeus721"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" height="300" alt="devzeus721"/></p>
 </div>
 
 <h1 align="left"><b>About ME ! </b></h1>
