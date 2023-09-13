@@ -8,8 +8,9 @@
     <td border="0">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="300" width="500" alt="devzeus721" /></p></td>
 <td border="0"><p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" height="300"/></td>
-<td border="0"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&show_icons=true&theme=algolia" height="240" width="500" alt="devzeus721"/></p></td>
-</tr>
+<td border="0"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&theme=algolia" height="240" width="500" alt="devzeus721"/></p></td>
+
+  </tr>
 </table>
 
 <div>
