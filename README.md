@@ -14,18 +14,18 @@
 </table>
 <br>
 <div>
-<h1 align="left"><b>About ME ! </b></h1>
-<div align="right"&text-color="00ffff">
+<h1 align="right"><b>About ME ! </b></h1>
+<div align="left"; text-color="00ffff">
 
-- 🔭 I’m currently working on **FREELANCE DEVELOPER**
+🔭 I’m currently working on **FREELANCE DEVELOPER**
 
-- 🌱 I’m currently learning **Advanced Frontend and Database query setups**
+ 🌱 I’m currently learning **Advanced Frontend and Database query setups**
 
-- 👯 I’m looking to collaborate on **Well developer colleagues**
+👯 I’m looking to collaborate on **Well developer colleagues**
 
-- 💬 Ask me about **Any Technical and dev realted queries**
+ 💬 Ask me about **Any Technical and dev realted queries**
 
-- 📫 How to reach me **<zeus.mathew721@gmail.com> & <devzeus.mathew721@gmail.com>**
+📫 How to reach me **<zeus.mathew721@gmail.com> & <devzeus.mathew721@gmail.com>**
 </div>
 </div>
 
