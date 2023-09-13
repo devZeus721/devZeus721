@@ -3,19 +3,19 @@
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
+<div align="center"; border="none">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" width="480"/></p></div>
+
 <table align="center" &border-style="none">
   <tr border="0">
-    <td border="0">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="300" width="500" alt="devzeus721" /></p></td>
-<td border="0"><p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" height="300"/></td>
-<td border="0"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&theme=algolia" height="240" width="500" alt="devzeus721"/></p></td>
-
+<td border="none"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="320" width="500" alt="devzeus721" /></p></td>
+<td border="none"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&layout=compact&theme=algolia" height="270" width="420" alt="devzeus721"/></p></td>
   </tr>
 </table>
-
+<br>
 <div>
 <h1 align="left"><b>About ME ! </b></h1>
-<div align="center"&text-color="00ffff">
+<div align="right"&text-color="00ffff">
 
 - 🔭 I’m currently working on **FREELANCE DEVELOPER**
 
@@ -186,8 +186,8 @@
 </div>
 <br>
 <br>
-<h3 align="left"><b>Status Trophies:</b></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"theme=onedark)><img src="https://github-profile-trophy.vercel.app/?username=devzeus721" alt="devzeus721" />
+<h3 align="center"><b>Status Trophies:</b></h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=devzeus721&theme=algolia"  alt="devzeus721" />
 </a> </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devzeus721&label=Profile%20views&color=00b5b5&style=plastic" alt="devzeus721" /> </p>
