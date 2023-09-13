@@ -4,7 +4,7 @@
 <h3 align="right"><b><i>A passionate all round developer!</i></b></h3>
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge" alt="mrzeusmathew007" /></a> </p>
 
-<div align="center";margin-bottom="10px">
+<div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" />
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" height="350" float="left" width="50%" alt="devzeus721" /></p>
