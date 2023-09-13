@@ -6,11 +6,12 @@
 
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia" />
+</div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" width="250" alt="devzeus721" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia" align="left" width="250" alt="devzeus721" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeus721&show_icons=true&theme=algolia" height="300" alt="devzeus721"/></p>
-</div>
+
 
 <h1 align="left"><b>About ME ! </b></h1>
 
