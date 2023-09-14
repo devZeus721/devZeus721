@@ -4,11 +4,14 @@
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
 
 <div align="center"; border="none">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia&title_color=faff39&text_color=00ffff" width="480"/></p></div>
-<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia&card_width=320&title_color=faff39&text_color=00ffff" height="180" float="left"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia&title_color=faff39&text_color=00ffff" height="180" alt="devzeus721" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=algolia&title_color=faff39&text_color=00ffff&hide_border=false" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=algolia&title_color=faff39&text_color=00ffff&hide_border=false" height="180" alt="languages graph" float="right"/>
+
+</div>
+    <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=algolia&title_color=faff39&text_color=00ffff" height="180" alt="devzeus721" />
+</div>
  
 ######
 
