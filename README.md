@@ -4,9 +4,9 @@
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
 
 <div align="center"; border="none">
-    <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia&card_width=480&title_color=faff39&text_color=00ffff" height="190" float="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=algolia&card_width=480&title_color=faff39&text_color=00ffff" height="180" float="left"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=faff39&text_color=00ffff&hide_border=false" height="190" alt="languages graph" float="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&title_color=faff39&text_color=00ffff&hide_border=false" height="180" alt="languages graph" float="right"/>
 
 </div>
     <div align="center">
