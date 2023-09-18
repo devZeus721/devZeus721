@@ -33,7 +33,16 @@
 
 <h1 align="center"> 🏁 MY SPACE ✅ </h1> 
 
-## <p align="right"> 📄 **CODE EDITOR & IDES** </p> ##
+<br />
+
+## <p align="right"> 🍧 **DESIGN TOOLS** </p> ##
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black "Figma")
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")
+
+
+## <p align="right"> 📄 **CODE EDITOR & IDE's** </p> ##
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black "Visual Studio Code")
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black "Visual Studio Code")
@@ -41,13 +50,14 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=blackimportant "Sublime Text")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=black)
-
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=black)
 <br>
 ## <p align="right"> 🛠️ **DEVOPS TOOLS** </p> 
 
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black "Git")
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
+
 
 ## <p align="right"> ⭕ OPERATING SYSTEMS </p> ##
 
