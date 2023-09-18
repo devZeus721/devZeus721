@@ -176,7 +176,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
 </div>
 
-## <p align="center"> Connect with me: </p> ##
+## <p align="left"> Connect with me: </p> ##
 <div align="center">
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
