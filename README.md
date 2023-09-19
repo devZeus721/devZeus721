@@ -19,7 +19,7 @@
 
 <br>
 <div>
-<h1 align="right"><b>About ME ! </b></h1>
+<h1 align="left"><b>About ME ! </b></h1>
 <div align="left"; text-color="00ffff">
 
 🔭 I’m currently working on **FREELANCE DEVELOPER**
