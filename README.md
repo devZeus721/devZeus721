@@ -189,31 +189,31 @@
 ## <p align="left"> Connect with me: </p> ##
 <div align="center">
   <a href="https://app.vsaex.visualstudio.com/go/profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="visualstudio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Visual Studio &logo=visualstudio&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="32" alt="visualstudio logo"  />
   </a>
   <a href="https://codepen.io/devZeus721" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="32" alt="codepen logo"  />
   </a>
   <a href="https://medium.com/@devzeus.mathew721" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=cyan&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=cyan&labelColor=&style=for-the-badge" height="32" alt="medium logo"  />
   </a>
   <a href="https://dev.to/devzeus721" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=cyan&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=cyan&labelColor=&style=for-the-badge" height="32" alt="devto logo"  />
   </a>
    <a href="https://web.telegram.org/k/#@ZeusLegendry007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=cyan&labelColor=black&style=for-the-badge" height="32" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/iammrzeusmathewk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=black&labelColor=blue&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
   <a href="devzeus.mathew721@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_mrzeus.mathew007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=pink&logoColor=black&labelColor=pink&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=pink&logoColor=black&labelColor=pink&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
   <a href="_mr.zeusmathewk721" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
 
 </div>
