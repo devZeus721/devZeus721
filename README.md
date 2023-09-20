@@ -13,8 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzeus721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=holi&title_color=faff39&text_color=00ffff&hide_border=false" height="180" alt="languages graph" float="right"/>
 
 </div>
-    <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=prussian&text_color=00ffff&hide_border=true" height="200" alt="devzeus721" />
+    <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=prussian&text_color=00ffff&hide_border=true" height="200" alt="devzeus721" />
 </div>
 
 <br>
