@@ -223,9 +223,7 @@
 </div>
 <br>
 <br>
-##
-<img src="https://raw.githubusercontent.com/devZeus721/devZeus721/output/snake.svg" alt="Snake animation" />
-##
+
 <h3 align="center"><b>Status Trophies:</b></h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=devzeus721&theme=algolia"  alt="devzeus721" />
 </a> </p>
