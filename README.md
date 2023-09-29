@@ -1,7 +1,8 @@
 
 <h1 align="right" ; text-color="cyan" >Hi 👋, I'm devZeus Mathew</h1>
 <h4 align="right"><b><i>Hello, Coding Universe! I'm a trailblazing, problem-solving, tech-adventurous junior developer! </i>💻🚀</h4> 
-    <p>Fueled by a passion for improving user experiences and a fascination with technology, I revel in creating innovative solutions to complex problems. While my coding journey may be #InTheEarlyStages, I'm fully equipped with determination, a never-ending thirst for learning, and numerous cups of coffee ☕. </b></p> 
+    <p>Fueled by a passion for improving user experiences and a fascination with technology, I revel in creating innovative solutions to complex problems. While my coding journey may be <br />
+    #InTheEarlyStages, I'm fully equipped with determination, a never-ending thirst for learning, and numerous cups of coffee ☕. </b></p> 
     <h3 align="center"> CHALLENGING SITUATIONs = OPPORTUNITES for GROWTH!🚀📈 </h3><br/> 
    <p align="left"><b> #JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</b></p>
     
@@ -14,6 +15,7 @@
 <br />
 </div>
     <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=prussian&hide_border=true" height="180" alt="devzeus721" />
+    
 </div>
 
 <br>
