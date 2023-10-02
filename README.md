@@ -3,7 +3,7 @@
 <h4 align="right"><b><i>Hello, Coding Universe! I'm a trailblazing, problem-solving, tech-adventurous junior developer! </i>💻🚀</h4> 
     <p align="center">Fueled by a passion for improving user experiences and a fascination with technology, I revel in creating innovative solutions to complex problems. While my coding journey may be #InTheEarlyStages.
         <br /> I'm fully equipped with determination, a never-ending thirst for learning, and numerous cups of coffee ☕. </b></p> 
-    <h3 align="center"> CHALLENGING SITUATIONs = OPPORTUNITES for GROWTH!🚀📈 </h3><br/> 
+    <h3 align="center"> CHALLENGING SITUATIONs = OPPORTUNITEs for GROWTH!🚀📈 </h3><br/> 
    <p align="left"><b> #JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</b></p>
     
 <p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
