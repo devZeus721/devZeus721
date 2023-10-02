@@ -6,7 +6,7 @@
     <h3 align="center"> CHALLENGING SITUATIONs = OPPORTUNITIEs for GROWTH!🚀📈 </h3><br/> 
    <p align="left"><b> #JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</b></p>
     
-<p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
 
 <div align="center"; border="none">
     <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=holi&card_width=440&title_color=faff39&text_color=00ffff" height="180" float="left"/>
