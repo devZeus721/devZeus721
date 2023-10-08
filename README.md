@@ -223,12 +223,10 @@
 
 </div>
 <br>
-<br>
 
 <h3 align="center"><b>Status Trophies:</b></h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=devzeus721&theme=algolia" height="625"  alt="devzeus721" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=devzeus721&theme=algolia"  alt="devzeus721" />
 </a> </p>
-<br>
 
 ## <p align="center"> **Thanks for checking out my GitHub Profile!** 🙏 🫂 </p> ##
 
