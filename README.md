@@ -1,5 +1,5 @@
 
-<h1 align="right" ; text-color="cyan" >Hi 👋, I'm devZeus MAthew</h1>
+<h1 align="right" ; text-color="cyan" >Hi 👋, I'm devZeus MAtthew</h1>
 <h4 align="right"><b><i>Hello, Coding Universe! I'm a trailblazing, problem-solving, tech-adventurous junior developer! </i>💻🚀</h4> 
     <p align="center">Fueled by a passion for improving user experiences and a fascination with technology, I revel in creating innovative solutions to complex problems. While my coding journey may be #InTheEarlyStages.
         <br /> I'm fully equipped with determination, a never-ending thirst for learning, and numerous cups of coffee ☕. </b></p> 
