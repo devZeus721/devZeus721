@@ -4,9 +4,9 @@
     <p align="center">Fueled by a passion for improving user experiences and a fascination with technology, I revel in creating innovative solutions to complex problems. While my coding journey may be #InTheEarlyStages.
         <br /> I'm fully equipped with determination, a never-ending thirst for learning, and numerous cups of coffee ☕. </b></p> 
     <h3 align="center"> CHALLENGING SITUATIONs = OPPORTUNITIEs for GROWTH!🚀📈 </h3><br/> 
-   <p align="left"><b> #JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</b></p>
+   <p align="right" width = "50%"><b> #JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</b></p>
     
-<p align="left"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
+<p align="right"> <a href="https://twitter.com/mrzeusmathew007" target="blank"><img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" /></a> </p>
 
 <div align="center"; border="none">
     <img src="https://github-readme-stats.vercel.app/api?username=devzeus721&show_icons=true&theme=holi&card_width=380&title_color=faff39&text_color=00ffff" height="180" float="left"/>
