@@ -15,7 +15,6 @@
 <br />
 </div>
     <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devzeus721&theme=prussian&hide_border=true" height="180" alt="devzeus721" />
-    
 </div>
 
 <br>
